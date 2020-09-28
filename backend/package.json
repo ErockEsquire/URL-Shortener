@@ -1,0 +1,37 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "anymatch": "^3.1.1",
+    "clone-response": "^1.0.2",
+    "config": "^3.3.1",
+    "cors": "^2.8.5",
+    "decompress-response": "^3.3.0",
+    "express": "^4.17.1",
+    "make-dir": "^3.1.0",
+    "mimic-response": "^1.0.1",
+    "mongoose": "^5.10.6",
+    "nodemon": "^2.0.4",
+    "nopt": "^1.0.10",
+    "normalize-path": "^3.0.0",
+    "normalize-url": "^4.5.0",
+    "p-cancelable": "^1.1.0",
+    "picomatch": "^2.2.2",
+    "prepend-http": "^2.0.0",
+    "pupa": "^2.0.1",
+    "readdirp": "^3.4.0",
+    "responselike": "^1.0.2",
+    "shortid": "^2.2.15",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
