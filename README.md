@@ -1,7 +1,7 @@
 # URLshortener  
 Enter a URL to receive a shortened URL  
 
-Uses MongoDB with Node + Express backend and React frontend  
+MERN stack application using Node + Express with MongoDB cluster, with a React Frontend.    
 
 ### 1. Start Backend  
 In /backend, install packages by running ```npm install```  
